@@ -4,5 +4,5 @@
 
 This repository contains screenshot or Completion Certificate of Weekly Assignments submitted as a part of the " LTTS StepIn Program "
 
-## Week 1 - Agile For Beginners - Great Training
-![Week 1](week 1 - Applied SDLC, Agile & Testing Methodology/AgileForBeginners-GreatLearning.png)
+## week 1 - Agile For Beginners - Great Training
+![week 1](week 1 - Applied SDLC, Agile & Testing Methodology/AgileForBeginners-GreatLearning.png)

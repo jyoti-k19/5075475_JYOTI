@@ -8,4 +8,4 @@ This repository contains screenshot or Completion Certificate of Weekly Assignme
 ![week 1](agile/task1.png)
 
 ## week 2 - Collaboration and Source code management with Git
-![week 2](Git/git.pdf)
+[week 2](Git/git.pdf)

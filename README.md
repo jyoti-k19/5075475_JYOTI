@@ -9,3 +9,6 @@ This repository contains screenshot or Completion Certificate of Weekly Assignme
 
 ## week 2 - Collaboration and Source code management with Git
 ![week 2](Git/git.jpg)
+
+## week 3 - Basic of Linux Commands
+- [Linux History (PDF)](LINUX/linux_history1.pdf)
